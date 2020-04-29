@@ -1,0 +1,9 @@
+._app-box {
+    transition: 400ms;
+    cursor: pointer;
+    background-color: rgb(59, 87, 245);
+    border: none;
+}
+._app-box:hover {
+    box-shadow: 14px 11px 23px -3px rgba(0, 0, 0, 0.24);
+}
